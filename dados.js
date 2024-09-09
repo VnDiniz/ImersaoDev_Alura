@@ -18,18 +18,3 @@ let dados = [
       tags: "ginástica ginastica ouro"
     }
   ];
-
-
-//let dados2
-
-let rayssa = {
-    titulo: "Rayssa Leal",
-    descricao: "Rayssa Leal é uma skatista profissional brasileira, conhecida como a Fadinha. Aos poucos anos de idade, ela já conquistou o mundo do skate com seu talento e carisma. Rayssa é um exemplo de superação e inspiração para muitos jovens.",
-    link: "https://pt.wikipedia.org/wiki/Rayssa_Leal"
-}
-
-
-
-
-
-
